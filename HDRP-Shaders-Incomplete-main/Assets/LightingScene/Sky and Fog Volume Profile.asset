@@ -312,13 +312,13 @@ MonoBehaviour:
   active: 1
   lift:
     m_OverrideState: 1
-    m_Value: {x: 0.8835984, y: 0.9631969, z: 1, w: -0.06264682}
+    m_Value: {x: 0.88, y: 0.962, z: 1, w: -0.06264682}
   gamma:
     m_OverrideState: 1
-    m_Value: {x: 0.926865, y: 1, z: 0.9404998, w: 0.06264682}
+    m_Value: {x: 0.93, y: 1, z: 0.94283336, w: 0.06264682}
   gain:
     m_OverrideState: 1
-    m_Value: {x: 0.92070884, y: 0.83484656, z: 1, w: 0.09397023}
+    m_Value: {x: 0.91783327, y: 0.83, z: 1, w: 0.09397023}
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -699,13 +699,13 @@ MonoBehaviour:
     m_Value: 1000
   baseHeight:
     m_OverrideState: 1
-    m_Value: 4.6
+    m_Value: 6.1
   maximumHeight:
     m_OverrideState: 1
     m_Value: 28.81
   meanFreePath:
     m_OverrideState: 1
-    m_Value: 16.5
+    m_Value: 51
   enableVolumetricFog:
     m_OverrideState: 1
     m_Value: 1
